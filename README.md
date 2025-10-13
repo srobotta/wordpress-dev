@@ -37,7 +37,7 @@ The whole wordpress installation must reside in the `wordpress` folder (therefor
 Once installed, your wordpress installation is available at http://localhost:8080
 
 The project also contains the wordpress cli container. You may simply run
-a cli commany by:
+a cli command by:
 
 ```
 ./wp-cli.sh <command>
